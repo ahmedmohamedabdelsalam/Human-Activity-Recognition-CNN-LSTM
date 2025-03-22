@@ -15,6 +15,7 @@ This project implements a deep learning solution for Human Activity Recognition 
 - **Activities**: 6 different human activities  
 - **Total Samples**: 10,299  
 - **Features**: 561 time and frequency domain variables  
+- **Download Link**: [UCI HAR Dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)  
 
 ### Recognized Activities  
 1. Walking  
